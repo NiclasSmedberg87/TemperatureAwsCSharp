@@ -52,3 +52,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+src/.vs/
+src/cdk.out/
+src/CdkCSharpTest2/read.34104.1.lock
+src/.idea/.idea.CdkCSharpTest2/.idea/.gitignore
+src/.idea/
+cdk.json
