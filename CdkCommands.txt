@@ -1,0 +1,7 @@
+AWS Commands
+
+aws configure sso --profile EnvironmentName innan
+
+cdk deploy --app "dotnet run --project CdkCSharpTest2"
+cdk destroy --app "dotnet run --project CdkCSharpTest2"
+
